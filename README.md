@@ -1,6 +1,5 @@
 <!--Social-->
-[![Linkedin: AlfredoCarias](https://img.shields.io/badge/-AlfredoCarías-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alfredocarias17)](www.linkedin.com/in/alfredocarias17)
-
+<a href="https://www.linkedin.com/in/alfredocarias17"><img src="https://img.shields.io/badge/AlfredoCarías-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <!--Welcome-->
 <p>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXAyNnF2bTJoYmh5NTI2ZnhtN3hncnp5NDJoZ2IxZ2kzbjg0YnRmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ywEDfMxosa4pXUa2F3/giphy.webp" align="left" width="200">
